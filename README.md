@@ -1,2 +1,3 @@
 ## :camera:sharenow
-Full Stack Social Media App project
+* Full Stack Social Media App project
+* React, Sanity, Taliwind ...
